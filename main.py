@@ -6,4 +6,4 @@ def minus(a, b):
 
 
 print(plus(5, 5))
-print(plus(5, 5))
+print(plus(5, 6))
